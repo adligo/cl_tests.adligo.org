@@ -18,6 +18,7 @@ public class MainRunner {
 		try {
 			J2SEPlatform.init();
 			LogPlatform.init();
+			CLRegistry.setup();
 		} catch (Exception x) {
 			x.printStackTrace();
 		}
