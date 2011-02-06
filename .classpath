@@ -7,10 +7,10 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/cl"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/i_log"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/i_util"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/j2se_util"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/tests"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/adi_tests"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/adig_tests"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/jse_util"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
