@@ -7,7 +7,7 @@ public class MockConsoleInputReader extends BaseGInvoker implements I_GInvoker<O
 	public static final MockConsoleInputReader INSTANCE = new MockConsoleInputReader();
 	private String nextInput;
 	
-	public MockConsoleInputReader() {
+	private MockConsoleInputReader() {
 		super(Object.class, String.class);
 	}
 
