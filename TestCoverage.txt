@@ -1,0 +1,5 @@
+Date,Package,Coverage,Instructions
+11/14/2012,org.adligo.cl.view.parsers,0.0%,84
+11/14/2012,org.adligo.cl.view,33.0%,100
+11/14/2012,org.adligo.cl,0.0%,46
+11/14/2012,org.adligo.cl.args,97.7%,133
