@@ -1,1 +1,6 @@
-/bin
+bin/
+classes/
+classes_e/
+test_reports/
+cl_tests.jar
+
