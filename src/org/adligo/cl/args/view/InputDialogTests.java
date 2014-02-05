@@ -3,9 +3,9 @@ package org.adligo.cl.args.view;
 import org.adligo.cl.CL_InvokerNames;
 import org.adligo.cl.MockConsoleInputReader;
 import org.adligo.cl.view.InputDialog;
-import org.adligo.i.adi.MockOutErrInvoker;
 import org.adligo.i.adi.client.InvokerNames;
 import org.adligo.i.adi.client.Registry;
+import org.adligo.i.adi.tests.MockOutErrInvoker;
 import org.adligo.i.adig.client.GRegistry;
 import org.adligo.tests.ATest;
 
