@@ -1,7 +1,8 @@
-package org.adligo.cl.args;
+package org.adligo.cl_tests.args;
 
 import java.util.Map;
 
+import org.adligo.cl.args.ArgParser;
 import org.adligo.tests.ATest;
 
 public class ArgParserTests extends ATest {

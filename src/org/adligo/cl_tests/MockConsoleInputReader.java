@@ -1,7 +1,7 @@
-package org.adligo.cl;
+package org.adligo.cl_tests;
 
-import org.adligo.i.adig.client.BaseGInvoker;
-import org.adligo.i.adig.client.I_GInvoker;
+import org.adligo.i.adig.shared.BaseGInvoker;
+import org.adligo.i.adig.shared.I_GInvoker;
 
 public class MockConsoleInputReader extends BaseGInvoker implements I_GInvoker<Object, String> {
 	public static final MockConsoleInputReader INSTANCE = new MockConsoleInputReader();

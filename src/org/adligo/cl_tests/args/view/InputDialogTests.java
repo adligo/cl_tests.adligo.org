@@ -1,12 +1,12 @@
-package org.adligo.cl.args.view;
+package org.adligo.cl_tests.args.view;
 
 import org.adligo.cl.CL_InvokerNames;
-import org.adligo.cl.MockConsoleInputReader;
 import org.adligo.cl.view.InputDialog;
-import org.adligo.i.adi.client.InvokerNames;
-import org.adligo.i.adi.client.Registry;
-import org.adligo.i.adi.tests.MockOutErrInvoker;
-import org.adligo.i.adig.client.GRegistry;
+import org.adligo.cl_tests.MockConsoleInputReader;
+import org.adligo.i.adi.shared.InvokerNames;
+import org.adligo.i.adi.shared.Registry;
+import org.adligo.i.adi_tests.shared.MockOutErrInvoker;
+import org.adligo.i.adig.shared.GRegistry;
 import org.adligo.tests.ATest;
 
 public class InputDialogTests extends ATest {

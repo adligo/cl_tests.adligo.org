@@ -1,4 +1,4 @@
-package org.adligo.cl;
+package org.adligo.cl_tests;
 
 import org.adligo.cl.view.ParsedInputDialog;
 import org.adligo.cl.view.parsers.IntegerInputParser;
