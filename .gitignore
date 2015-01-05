@@ -1,6 +1,7 @@
-bin/
-classes/
-classes_e/
+/bin/
+/build/
+/classes/
+/classes_e/
 test_reports/
 cl_tests*.jar
 test_failure.properties
